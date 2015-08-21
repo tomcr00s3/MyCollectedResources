@@ -1,10 +1,10 @@
 # MyCollectedResources
 **BootCamps**
-  *[FreeCodeCamp(Currently in progress)](freecodecamp.com.md)
-  *[Bento.io][Bento.io.md]
-  *[odinproject(sometimes solving)](theodinproject.com.md)
-  *[hackdesign(for design)](hackdesign.org.md)
-  *jumpstartlab.com
+  **[FreeCodeCamp(Currently in progress)](freecodecamp.com.md)
+  **[Bento.io][Bento.io.md]
+  **[odinproject(sometimes solving)](theodinproject.com.md)
+  **[hackdesign(for design)](hackdesign.org.md)
+  **jumpstartlab.com
 -----------------------------------------------------------
 **Competitve Programming**
   *[Codechef](codechef.com.md)
