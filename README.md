@@ -32,5 +32,8 @@
 
 
 [300 Awesome Free Things for Entrepreneurs and  Startups](https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b)
+------------------------------------------------------------------------------------------------------
 
+**Aptitude**
+[Aptitude tricks](http://www.math-shortcut-tricks.com/)
 
