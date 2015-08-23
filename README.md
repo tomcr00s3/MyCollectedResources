@@ -6,6 +6,8 @@
   [hackdesign(for design)](hackdesign.org.md)
   [codelibrary](http://codelibrary.ml/)
   [jumpstartlab.com]
+  
+  [telentbuddy.co](https://www.talentbuddy.co/)
 -----------------------------------------------------------
 **Competitve Programming**
   [Codechef](codechef.com.md)
@@ -14,6 +16,8 @@
   [Hackerrank](hackerrank.com.md)
   [Codeabbey](Codeabbey.com.md)
   [Mycodeschool(for learning Datastructures and algo)](mycodeschool.com.md)
+  
+  
   
 -----------------------------------------------------------
 **Webdevelopment**
