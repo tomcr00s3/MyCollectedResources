@@ -5,7 +5,7 @@
   [odinproject(sometimes solving)](theodinproject.com.md)
   [hackdesign(for design)](hackdesign.org.md)
   [codelibrary](http://codelibrary.ml/)
-  jumpstartlab.com
+  [jumpstartlab.com]
 -----------------------------------------------------------
 **Competitve Programming**
   [Codechef](codechef.com.md)
@@ -29,9 +29,10 @@
   [Udacity](udacity.com)
   
 -----------------------------------------------------------
-
-
-[300 Awesome Free Things for Entrepreneurs and  Startups](https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b)
+**Miscellaneous**
+  [300 Awesome Free Things for Entrepreneurs and             Startups](https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b)
+  
+  [Q&A wwith Mimino](http://blog.hackerrank.com/exclusive-qa-with-mimino-inside-the-mind-of-pro-competitive-coder/)
 ------------------------------------------------------------------------------------------------------
 
 **Aptitude**
