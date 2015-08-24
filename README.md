@@ -7,6 +7,7 @@
   [codelibrary](http://codelibrary.ml/)
   [jumpstartlab](jumpstartlab.com)
   [telentbuddy.co](https://www.talentbuddy.co/)
+  [moder-developer](https://learn.modern-developer.com/)
 -----------------------------------------------------------
 **Competitve Programming**
   [Codechef](codechef.com.md)
