@@ -40,7 +40,7 @@
       <li>[300 Awesome Free Things for Entrepreneurs and             Startups](https://blog.growth.supply/300-awesome-free-things-e07b3cd5fd5b)</li>
       <li> [Q&A wwith Mimino](http://blog.hackerrank.com/exclusive-qa-with-mimino-inside-the-mind-of-pro-competitive-coder/)</li>
       <li>[How to learn javascript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)</li>
-      <li>[thenounproject](https://thenounproject.com/)Site for Icons</li>
+      <li>[thenounproject](https://thenounproject.com/) Site for Icons</li>
     </ul>
     <h2>Aptitude Stuff</h2>
     <ul>
