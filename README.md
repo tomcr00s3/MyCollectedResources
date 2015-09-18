@@ -4,6 +4,7 @@
     <h2>BootCamps</h2><br/>
     <ul>
       <li>[FreeCodeCamp(Currently in progress)](freecodecamp.com.md)</li>
+      <li>[VikingCodeSchool](http://www.vikingcodeschool.com/web-markup-and-coding) Resources provided by Viking before applying for their bootcamp.</li>
       <li>[Bento.io](Bento.io.md)</li>
       <li>[odinproject(sometimes solving)](theodinproject.com.md)</li>
       <li>[hackdesign(for design)](hackdesign.org.md)</li>
