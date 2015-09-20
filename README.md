@@ -30,7 +30,7 @@
           <li>-AngularJs</li>
         </ul>
     </ul>
-    <h2>Important sites for laearning</h2>
+    <h2>Important sites for learning</h2>
     <ul>
       <li>[Coursera](coursera.org)</li>
       <li>[Codecademy](codecademy.com)</li>
