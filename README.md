@@ -12,6 +12,7 @@
       <li>[jumpstartlab](jumpstartlab.com)</li>
       <li>[telentbuddy.co](https://www.talentbuddy.co/)</li>
       <li>[moder-developer](https://learn.modern-developer.com/)</li>
+      <li>[codefellows](https://www.codefellows.org/)</li>
     </ul> 
     <h2>Competitive Programming</h2>
     <ul>
