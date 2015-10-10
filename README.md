@@ -5,9 +5,9 @@
     <ul>
       <li>[FreeCodeCamp(Currently in progress)](freecodecamp.com.md)</li>
       <li>[VikingCodeSchool](http://www.vikingcodeschool.com/web-markup-and-coding) Resources provided by Viking before applying for their bootcamp.</li>
-      <li>[Bento.io](Bento.io.md)</li>
-      <li>[odinproject(sometimes solving)](theodinproject.com.md)</li>
-      <li>[hackdesign(for design)](hackdesign.org.md)</li>
+      <li>[Bento.io](Bento.io)</li>
+      <li>[odinproject(sometimes solving)](theodinproject.com)</li>
+      <li>[hackdesign(for design)](hackdesign.org)</li>
       <li>[codelibrary](http://codelibrary.ml/)</li>
       <li>[jumpstartlab](jumpstartlab.com)</li>
       <li>[telentbuddy.co](https://www.talentbuddy.co/)</li>
@@ -16,16 +16,16 @@
     </ul> 
     <h2>Competitive Programming</h2>
     <ul>
-      <li>[Codechef](codechef.com.md)</li>
-      <li>[SPOJ](spoj.com.md)</li>
-      <li>[Hackerearth](hackerearth.com.md)</li>
-      <li>[Hackerrank](hackerrank.com.md)</li>
-      <li>[Codeabbey](Codeabbey.com.md)</li>
-      <li>[Mycodeschool(for learning Datastructures and algo)](mycodeschool.com.md)</li>
+      <li>[Codechef](codechef.com)</li>
+      <li>[SPOJ](spoj.com)</li>
+      <li>[Hackerearth](hackerearth.com)</li>
+      <li>[Hackerrank](hackerrank.com)</li>
+      <li>[Codeabbey](Codeabbey.com)</li>
+      <li>[Mycodeschool(for learning Datastructures and algo)](mycodeschool.com)</li>
     </ul>
     <h2>Web Development</h2>
     <ul>
-      <li>[codecademy](codecademy.com.md)</li>
+      <li>[codecademy](codecademy.com)</li>
         <ul>
           <li>-website development(currently running)</li>
           <li>-AngularJs</li>
