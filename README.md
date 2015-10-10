@@ -43,6 +43,8 @@
       <li> [Q&A wwith Mimino](http://blog.hackerrank.com/exclusive-qa-with-mimino-inside-the-mind-of-pro-competitive-coder/)</li>
       <li>[How to learn javascript properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)</li>
       <li>[thenounproject](https://thenounproject.com/) Site for Icons</li>
+      <li>[Trello](https://trello.com)</li>
+      <li>[InvisionApp](www.invisionapp.com/) For creating Websites and Application mockups</li>
     </ul>
     <h2>Aptitude Stuff</h2>
     <ul>
