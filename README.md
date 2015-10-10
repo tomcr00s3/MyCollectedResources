@@ -3,29 +3,29 @@
     <h1><center>My Collected Resources</center></h2><br/>
     <h2>BootCamps</h2><br/>
     <ul>
-      <li>[FreeCodeCamp(Currently in progress)](freecodecamp.com.md)</li>
+      <li>[FreeCodeCamp(Currently in progress)](https://www.freecodecamp.com)</li>
       <li>[VikingCodeSchool](http://www.vikingcodeschool.com/web-markup-and-coding) Resources provided by Viking before applying for their bootcamp.</li>
       <li>[Bento.io](Bento.io)</li>
-      <li>[odinproject(sometimes solving)](theodinproject.com)</li>
-      <li>[hackdesign(for design)](hackdesign.org)</li>
+      <li>[odinproject(sometimes solving)](https://www.theodinproject.com)</li>
+      <li>[hackdesign(for design)](https://hackdesign.org)</li>
       <li>[codelibrary](http://codelibrary.ml/)</li>
-      <li>[jumpstartlab](jumpstartlab.com)</li>
+      <li>[jumpstartlab](https://jumpstartlab.com)</li>
       <li>[telentbuddy.co](https://www.talentbuddy.co/)</li>
       <li>[moder-developer](https://learn.modern-developer.com/)</li>
       <li>[codefellows](https://www.codefellows.org/)</li>
     </ul> 
     <h2>Competitive Programming</h2>
     <ul>
-      <li>[Codechef](codechef.com)</li>
-      <li>[SPOJ](spoj.com)</li>
-      <li>[Hackerearth](hackerearth.com)</li>
-      <li>[Hackerrank](hackerrank.com)</li>
-      <li>[Codeabbey](Codeabbey.com)</li>
-      <li>[Mycodeschool(for learning Datastructures and algo)](mycodeschool.com)</li>
+      <li>[Codechef](https://codechef.com)</li>
+      <li>[SPOJ](https://spoj.com)</li>
+      <li>[Hackerearth](https://hackerearth.com)</li>
+      <li>[Hackerrank](https://hackerrank.com)</li>
+      <li>[Codeabbey](https://Codeabbey.com)</li>
+      <li>[Mycodeschool(for learning Datastructures and algo)](https://mycodeschool.com)</li>
     </ul>
     <h2>Web Development</h2>
     <ul>
-      <li>[codecademy](codecademy.com)</li>
+      <li>[codecademy](https://www.codecademy.com)</li>
         <ul>
           <li>-website development(currently running)</li>
           <li>-AngularJs</li>
@@ -33,9 +33,9 @@
     </ul>
     <h2>Important Sites</h2>
     <ul>
-      <li>[Coursera](coursera.org)</li>
-      <li>[Codecademy](codecademy.com)</li>
-      <li>[Udacity](udacity.com)</li>
+      <li>[Coursera](https://www.coursera.org)</li>
+      <li>[Codecademy](https://www.codecademy.com)</li>
+      <li>[Udacity](https://www.udacity.com)</li>
     </ul>
     <h2>Miscellaneous</h2>
     <ul>
