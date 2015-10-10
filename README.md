@@ -1,0 +1,2 @@
+# MyCollectedResources
+README.md
