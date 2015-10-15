@@ -50,5 +50,9 @@
     <ul>
       <li>[Aptitude tricks](http://www.math-shortcut-tricks.com/)</li>
     </ul>
+    <h2>Books</h2>
+    <ul>
+    	<li>[Eloquent Javascript](http://eloquentjavascript.net/)</li>
+    </ul>
   </body>
 </html>
