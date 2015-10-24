@@ -56,6 +56,7 @@
     	<li>[Javascript Enlightenment](http://www.javascriptenlightenment.com/)</li>
     	<li>[DOM Enlightenment](http://domenlightenment.com/)</li>
     	<li>[Full Stack Python](https://www.fullstackpython.com/)</li>
+    	<li>[Guide to Data Mining](http://guidetodatamining.com/)</li>
     </ul>
   </body>
 </html>
