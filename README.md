@@ -52,11 +52,20 @@
     </ul>
     <h2>Books</h2>
     <ul>
+      <h2>Javascript Books</h2>
+      <ul>
     	<li>[Eloquent Javascript](http://eloquentjavascript.net/)</li>
     	<li>[Javascript Enlightenment](http://www.javascriptenlightenment.com/)</li>
     	<li>[DOM Enlightenment](http://domenlightenment.com/)</li>
+    	</ul>
+    	<h2>Python Books</h2>
+    	<ul>
     	<li>[Full Stack Python](https://www.fullstackpython.com/)</li>
+    	</ul>
+    	<h2>Data Mining</h2>
+    	<ul>
     	<li>[Guide to Data Mining](http://guidetodatamining.com/)</li>
+      </ul>
     </ul>
   </body>
 </html>
