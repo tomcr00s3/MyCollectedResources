@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 <html>
   <body>
-    <h2>OCJP Syllabus</h2>
     <div class="entry">
 								<h2><span id="trackTitle">Oracle Certified Professional, Java SE 8 Programmer Syllabus</span></h2>
 <p><strong>Java Basics </strong></p>
@@ -76,7 +74,3 @@
 															
   </body>
 </html>
-=======
-# MyCollectedResources
-README.md
->>>>>>> master
